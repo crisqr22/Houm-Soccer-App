@@ -1,0 +1,26 @@
+.custom-input {
+    color: #929da9;
+    background-color: #333;
+    background-clip: padding-box;
+    border: 1px solid #333435;
+    &:focus{
+        background-color: #333;
+        border-color: #5f5f5f;
+        outline: 0;
+        box-shadow: 0px 0px 12px 0px #525252;
+        @include transition(all 0.5s ease-in-out);
+    }
+}
+
+.label-light{
+    color: #929da9
+}
+
+
+.custom-error {
+    font-size: 12px;
+    color: #dc3545;
+    margin-top: 5px;
+    font-style: italic;
+    font-weight: lighter;
+}

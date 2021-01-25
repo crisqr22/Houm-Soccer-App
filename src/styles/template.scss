@@ -1,0 +1,16 @@
+/* System template */
+@import "variables";
+
+/* Global styles */
+@import "body";
+@import "layouts";
+@import "containers";
+@import "forms";
+
+/* Components */
+@import "nav";
+@import "nav-bar-top";
+@import "buttons";
+@import "loader";
+@import "search-form";
+@import "card";

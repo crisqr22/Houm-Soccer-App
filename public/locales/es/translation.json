@@ -1,0 +1,13 @@
+{
+  "SPAIN": "España",
+  "ENGLAND": "Inglaterra",
+  "ITALY": "Italia",
+  "ASIDE_WELCOM_INFO": "En esta app encontrarás las mejores ligas del mundo, estadísticas e información de tus jugadores favoritos",
+  "PLAYER_TITLE": "Jugadores en ",
+  "SEARCH_LABEL": "Busqueda por texto",
+  "SEARCH_PLACEHOLDER": "Encuentra tu jugador favorito",
+  "SEASON_LABEL": "Temporada (*)",
+  "LEAGUE_LABEL": "Liga (*)",
+  "ACTION_SEARCH_BUTTON": "Buscar aquí"
+
+}
