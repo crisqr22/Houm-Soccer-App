@@ -55,3 +55,5 @@ La aplicación como tal es una beta y hay muchas mejoras que podria tener, y par
  - **Paginación**: El api por defecto retorna 20 resultados de los jugadores y recibe como parámetros la pagina que se quiere traer, una gran mejora podría ser implementar un componente paginador para esto.
  - **Selector dinámico de ligas:** El selector en este momento usa un objeto que fácilmente se puede traer desde esta misma Api, por lo que una buena mejora podría ser implementar este selector dinamicamente, según el país seleccionado
  - **Pruebas unitarias:** Usando Jest y Testing library, sería ideal incluir pruebas de componentes y de los servicios de la aplicación
+ - **Pipelines de git** Con los resultados de los tests se podría configurar pipelines de git para integración continua
+ 
